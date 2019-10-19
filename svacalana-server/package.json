@@ -1,11 +1,14 @@
 {
   "name": "svacalana-server",
   "version": "1.0.0",
-  "description": "Compiles and validates different set of code",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Vikas S Shetty",
-  "license": "MIT"
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compile-run": "^2.3.2"
+  }
 }
