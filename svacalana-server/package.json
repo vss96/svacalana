@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "compile-run": "^2.3.2"
+    "compile-run": "^2.3.2",
+    "jasmine": "^3.5.0"
   }
 }
